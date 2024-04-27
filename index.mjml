@@ -1,0 +1,64 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Josefin Slab" href="https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@100..700&display=swap" />
+    <mj-style>
+      .section {
+        width: 83.335%;
+        max-width: 83.335%;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F1FEFF">
+    <mj-section background-color="#F1FEFF" padding-bottom="0" padding-top="0">
+      <mj-column width="100%">
+        <mj-image padding-left="0" padding-top="0" padding-right="0" padding-bottom="0" src="https://fltr.club/0_donTouch/Header.png" alt="header" width="600px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F1FEFF" padding-top="0" padding-bottom="0">
+      <mj-column border-top="1px solid #717A7C" css-class="section" width="83.335%" padding-top="20px" border-right="1px solid #717A7C" border-left="1px solid #717A7C">
+        <mj-text padding-bottom="0px" font-family="Josefin Slab, Arial, serif">
+          <b>Hello Esteemed Members of the Becoming Barnes Wedding Party,</b>
+        </mj-text>
+        <mj-text padding-bottom="0px" font-size="14px" line-height="140%" font-family="Josefin Slab, Arial, serif">
+          <p style="margin-bottom: 20px">We are thrilled to have you by our side as we embark on this incredible journey. Your presence means the world to us, and we couldn't imagine celebrating this special day without you. #BecomingBarnes There are 287 days left until our wedding day.</p>
+          <p style="margin-bottom: 20px">We look forward to celebrating with you and providing clarity on our wedding details to help you prepare. </p>
+          <p style="margin-bottom: 30px">We have developed a comprehensive <a target="_blank" style="color:black;" href="https://online.flippingbook.com/view/891453081"><b>Wedding Look book</b></a> that includes all the necessary information regarding wedding style, colors, attire, costs, hair and make-up looks, and purchase timelines to ensure a seamless preparation process for our big day. Please examine the look book and locate the URLs for purchasing each item by clicking on the corresponding links. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F1FEFF" padding-top="0" padding-bottom="0">
+      <mj-column css-class="section" width="83.335%" padding-top="20px" border-right="1px solid #717A7C" border-left="1px solid #717A7C" border-top="1px solid #717A7C">
+        <mj-text padding-bottom="0px" font-family="Josefin Slab, Arial, serif">
+          <b>Message From Althea:</b>
+        </mj-text>
+        <mj-text padding-bottom="0px" font-size="14px" line-height="140%" font-family="Josefin Slab, Arial, serif">
+          <p style="margin-bottom: 20px">To my Groomsmen, use the given link to create a <a href="https://blacktux.com" style="color:black;"><b>blacktux.com</b></a> account review the suit appearance and accessories. Two fitting appointments have been scheduled at Nordstrom’s Pentagon City for Saturday, June 8th at the following times:
+          </p>
+          <p style="margin-bottom: 10px">12:00PM – 1:30PM
+          </p>
+          <p style="margin-bottom: 20px">3:00PM – 4:30PM</p>
+          <p style="margin-bottom: 20px">Each appointment will accommodate three groomsmen. You may purchase white Air Force Ones through the link or any other store you prefer. Kindly, rent your suit by July 31st.</p>
+          <p style="margin-bottom: 20px">Customized bow ties and boutonnières will be given as a heartfelt thank you gift.</p>
+          <p style="margin-bottom: 30px">Please advise if you require barber services the morning of the wedding so I can make arrangements accordingly.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F1FEFF" padding-top="0" padding-bottom="0">
+      <mj-column css-class="section" width="83.335%" padding-top="20px" border-right="1px solid  #717A7C" border-bottom="1px solid #717A7C" border-left="1px solid #717A7C" border-top="1px solid #717A7C">
+        <mj-text padding-bottom="0px" font-family="Josefin Slab, Arial, serif">
+          <b>Message From Reggie:</b>
+        </mj-text>
+        <mj-text padding-bottom="0px" font-size="14px" line-height="140%" font-family="Josefin Slab, Arial, serif">
+          <p style="margin-bottom: 20px"> To my Groomsmen, use the given link to create a <a target="_blank" style="color:black;" href="https://blacktux.com"><b>blacktux.com</b></a> account review the suit appearance and accessories. A June fitting appointment will be scheduled. You may also buy white Air Force Ones through the link or any other store you prefer. Kindly, rent your suit by July 31st. </p>
+          <p style="margin-bottom: 20px">Customized bow ties and boutonnières will be given as a heartfelt thank you gift. Please advise if you require barber services the morning of the wedding so I can make arrangements accordingly. </p>
+          <p style="margin-bottom: 30px">Kindly book your accommodations at Hyatt by May 21st, 2024, and arrange for your flights as soon as possible. For your information, flights from DC area airports are currently averaging $500 per person.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F1FEFF" padding-top="0" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image padding-left="0" padding-right="0" padding-top="0" padding-bottom="0" src="https://fltr.club/0_donTouch/Footer.png" alt="header" width="600px" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
